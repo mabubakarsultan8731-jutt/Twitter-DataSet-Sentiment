@@ -1,6 +1,0 @@
-streamlit
-pandas
-textblob
-clean-text
-emoji
-openpyxl
